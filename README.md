@@ -10,3 +10,6 @@ This GitHub page is to test all possible features. :)
 Funny, I didn't need a pull request anymore?
 Now, I'm editing this with a new branch called first_branch
 NEW DAY: I am still on first_branch, just added another line
+
+05-18-2020: Instead of continuing first_branch, I made a new branch here.
+It's called first_branch_sub1!
